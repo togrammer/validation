@@ -1,4 +1,4 @@
-module github.com/togrammer/goValidator
+module github.com/togrammer/validation
 
 go 1.19
 
